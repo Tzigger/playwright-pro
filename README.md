@@ -1,7 +1,5 @@
-# create-playwright-pro
-
 ## Project Title
-Scaffolding Tool for Playwright Projects
+create-playwright-pro -> Scaffolding Tool for Playwright Projects
 
 ## Description
 `create-playwright-pro` is a powerful command-line interface (CLI) tool designed to streamline the setup and development of Playwright test automation projects. Its primary objective is to eliminate tedious setup time and enforce a unified, best-practice architecture across all your Playwright projects. This ensures consistency, maintainability, and scalability from day one, allowing teams to focus on writing effective tests rather than configuring environments.
