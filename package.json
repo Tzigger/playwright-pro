@@ -1,6 +1,7 @@
 {
   "name": "create-playwright-pro",
   "version": "1.0.0",
+  "license": "MIT",
   "bin": {
     "create-playwright-pro": "./dist/cli.js" 
   },
